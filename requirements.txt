@@ -1,0 +1,6 @@
+gtts
+pygame
+SoundFile
+numpy
+matplotlib
+Pillow
