@@ -31,8 +31,6 @@ This project is a Text-to-Speech Narrator application that allows users to conve
 4. Click the "Play" button to hear the narration.
 5. Use the "Save MP3" button to save the audio file.
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or improvements.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
