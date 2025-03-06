@@ -20,6 +20,7 @@ This project is a Text-to-Speech Narrator application that allows users to conve
    ```
    pip install -r requirements.txt
    ```
+   
 
 ## Usage
 1. Run the application:
