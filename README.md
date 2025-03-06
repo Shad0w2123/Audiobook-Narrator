@@ -34,3 +34,4 @@ This project is a Text-to-Speech Narrator application that allows users to conve
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
